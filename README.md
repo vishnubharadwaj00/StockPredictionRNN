@@ -24,7 +24,7 @@ The metrics used for measurement are Mean Absolute Error and Root Mean Squared E
 
 The plot for predictions of the model vs the actual values:
 
-![Plot]("\output.png")
+![Plot](output.png)
 
 ## Contribute
 
