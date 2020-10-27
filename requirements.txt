@@ -18,7 +18,7 @@ chromedriver-binary==79.0.3945.36.0
 cloudpickle==0.5.2
 command-not-found==0.3
 coverage==5.1
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 decorator==4.4.2
 defer==1.0.6
